@@ -20,7 +20,7 @@ Je conçois des solutions numériques sécurisées, de la modélisation des mena
 
 | Project | What I built | Core technologies |
 |---|---|---|
-| **[Munganga360](https://www.munganga360.com)** | Plateforme de santé connectée (patients, médecins, établissements). Co-fondateur — contribution au développement frontend/backend et à la sécurisation de l'application. | À compléter selon la stack exacte |
+| **[Munganga360](https://www.munganga360.com)** | Plateforme de santé connectée (patients, médecins, établissements, admin). Co-fondateur — contribution au développement frontend/backend et à la sécurisation de l'application (chiffrement des données, contrôle d'accès par rôle). | Flutter, Dart, Python, Django REST Framework, MySQL, JWT, Celery/Redis, Firebase, Agora |
 | **[siem-log-analyzer](https://github.com/bazebanzea/siem-log-analyzer)** | Outil Python de détection de brute-force, d'énumération de comptes et de compromission dans des logs d'authentification. Écrit et testé de bout en bout. | Python, pytest |
 | **[Training--memoire](https://github.com/bazebanzea/Training--memoire)** | Mémoire académique : détection d'intrusion IoT par apprentissage automatique (jeu de données ToN_IoT). | Python, scikit-learn, imbalanced-learn |
 | **[CERTDRC_kinshasa](https://github.com/bazebanzea/CERTDRC_kinshasa)** | Prototype de plateforme de gestion d'incidents type CERT national — spécifications fonctionnelles et sécurité. | React, TypeScript, Supabase |
