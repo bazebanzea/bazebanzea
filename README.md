@@ -29,14 +29,23 @@ Je conçois des solutions numériques sécurisées, de la modélisation des mena
 
 ## Technology stack
 
-**Sécurité & réseaux**
-`Threat modeling (STRIDE/DREAD)` · `IAM` · `Zero Trust` · `OWASP Top 10` · `Kali Linux` · `Nmap` · `Wireshark` · `SIEM`
+### Software development
 
-**Développement**
-`Python` · `TypeScript` · `React` · `SQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Systèmes**
-`Linux` · `Windows` · `Cloud (AWS/GCP/Azure — notions)`
+### Data & infrastructure
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+### Security & networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+
+`Threat modeling (STRIDE/DREAD)` · `IAM` · `Zero Trust` · `SIEM` · `Analyse de logs`
+
+### Certifications
+
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white) ![LPI Linux Essentials](https://img.shields.io/badge/LPI_Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Compétences certifiées
 
