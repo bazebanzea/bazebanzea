@@ -45,7 +45,7 @@ Je conçois des solutions numériques sécurisées, de la modélisation des mena
 
 ### Certifications
 
-![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white) ![LPI Linux Essentials](https://img.shields.io/badge/LPI_Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/89ba999c95c5c98f7f95e749e43546a8) [![LPI Linux Essentials](https://img.shields.io/badge/LPI_Linux_Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000701376/586kxf78eb)
 
 ### Compétences certifiées
 
