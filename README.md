@@ -1,18 +1,56 @@
-## Henoc Bazebanzea Lipekene
-### Spécialiste Cybersécurité — Security by Design
+# Henoc Bazebanzea Lipekene
 
-Actuellement en Master 2 Cybersécurité, après une Licence en Sciences Informatiques et Mathématiques obtenue à l'Université de Kinshasa (UNIKIN). Certifié Google Cybersecurity Professional et LPI Linux Essentials.
+### Spécialiste Cybersécurité · Security by Design · DevSecOps
 
-**Domaines de compétence**
-Security by Design, DevSecOps, modélisation des menaces (STRIDE/DREAD), gestion des identités et des accès (IAM), architecture Zero Trust, analyse de logs et détection d'incidents.
+Je conçois des solutions numériques sécurisées, de la modélisation des menaces à l'implémentation — avec une double compétence développement (front/back) et sécurité applicative.
 
-**Projets**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henoc_Lipekene-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henoc-lipekene-b63471331) [![Munganga360](https://img.shields.io/badge/Project-Munganga360-16A085?style=for-the-badge&logo=googleplay&logoColor=white)](https://www.munganga360.com)
 
-- [siem-log-analyzer](https://github.com/bazebanzea/siem-log-analyzer) — Outil Python de détection de brute-force, d'énumération de comptes et de compromission dans des logs d'authentification.
-- [Training--memoire](https://github.com/bazebanzea/Training--memoire) — Projet de mémoire académique : détection d'intrusion IoT par apprentissage automatique (jeu de données ToN_IoT).
-- [CERTDRC_kinshasa](https://github.com/bazebanzea/CERTDRC_kinshasa) — Plateforme de gestion d'incidents de type CERT national (prototype).
-- [secure-connect-final](https://github.com/bazebanzea/secure-connect-final) — Authentification forte multi-facteurs (MFA/Passkeys), prototype.
-- [secure-score-hub](https://github.com/bazebanzea/secure-score-hub) — Tableau de bord de scoring sécurité, prototype.
+---
 
-**Contact**
-henocklipekene19@gmail.com
+## About me
+
+- Co-fondateur, **Smart-X Congo** — contribution développement (frontend/backend) et sécurité applicative.
+- En Master 2 Cybersécurité, après une Licence en Sciences Informatiques et Mathématiques (Université de Kinshasa, UNIKIN).
+- Certifié **Google Cybersecurity Professional** et **LPI Linux Essentials**.
+- Compétences : Security by Design, DevSecOps, modélisation des menaces (STRIDE/DREAD), IAM, architecture Zero Trust, analyse de logs.
+- Ouvert à des opportunités en cybersécurité, sécurité applicative et développement sécurisé.
+
+## Featured projects
+
+| Project | What I built | Core technologies |
+|---|---|---|
+| **[Munganga360](https://www.munganga360.com)** | Plateforme de santé connectée (patients, médecins, établissements). Co-fondateur — contribution au développement frontend/backend et à la sécurisation de l'application. | À compléter selon la stack exacte |
+| **[siem-log-analyzer](https://github.com/bazebanzea/siem-log-analyzer)** | Outil Python de détection de brute-force, d'énumération de comptes et de compromission dans des logs d'authentification. Écrit et testé de bout en bout. | Python, pytest |
+| **[Training--memoire](https://github.com/bazebanzea/Training--memoire)** | Mémoire académique : détection d'intrusion IoT par apprentissage automatique (jeu de données ToN_IoT). | Python, scikit-learn, imbalanced-learn |
+| **[CERTDRC_kinshasa](https://github.com/bazebanzea/CERTDRC_kinshasa)** | Prototype de plateforme de gestion d'incidents type CERT national — spécifications fonctionnelles et sécurité. | React, TypeScript, Supabase |
+| **[secure-connect-final](https://github.com/bazebanzea/secure-connect-final)** | Prototype d'authentification forte (MFA/Passkeys). | React, TypeScript, Supabase |
+| **[secure-score-hub](https://github.com/bazebanzea/secure-score-hub)** | Prototype de tableau de bord de scoring sécurité (SOC). | React, TypeScript, Supabase |
+
+## Technology stack
+
+**Sécurité & réseaux**
+`Threat modeling (STRIDE/DREAD)` · `IAM` · `Zero Trust` · `OWASP Top 10` · `Kali Linux` · `Nmap` · `Wireshark` · `SIEM`
+
+**Développement**
+`Python` · `TypeScript` · `React` · `SQL`
+
+**Systèmes**
+`Linux` · `Windows` · `Cloud (AWS/GCP/Azure — notions)`
+
+## Responsible AI-assisted engineering
+
+Plusieurs de mes prototypes (Munganga360 pour les explorations rapides, CERTDRC_kinshasa, secure-connect-final, secure-score-hub) ont été construits avec l'assistance d'outils de génération de code par IA à partir de mes spécifications fonctionnelles et de sécurité. Je relis systématiquement le code généré, comprends son fonctionnement, et documente clairement dans chaque dépôt la part réalisée à la main de la part assistée par IA.
+
+## Education & certifications
+
+- Master 2 Cybersécurité (en cours)
+- Licence Sciences Informatiques et Mathématiques — Université de Kinshasa (UNIKIN)
+- Google Cybersecurity Professional Certificate
+- LPI Linux Essentials
+
+---
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/henoc-lipekene-b63471331) · [Munganga360](https://www.munganga360.com) · henocklipekene19@gmail.com
