@@ -38,6 +38,14 @@ Je conçois des solutions numériques sécurisées, de la modélisation des mena
 **Systèmes**
 `Linux` · `Windows` · `Cloud (AWS/GCP/Azure — notions)`
 
+### Compétences certifiées
+
+**Google Cybersecurity Professional Certificate**
+`Gestion des risques` · `Sécurité des réseaux` · `Détection et réponse aux incidents` · `Analyse des vulnérabilités` · `SIEM (analyse de logs)` · `Contrôle d'accès (IAM)` · `Python (scripting sécurité)` · `SQL` · `Linux`
+
+**LPI Linux Essentials**
+`Ligne de commande Linux` · `Système de fichiers et permissions` · `Gestion des utilisateurs et groupes` · `Gestion des paquets` · `Notions de scripting shell` · `Bases réseau (TCP/IP)` · `Sécurité et permissions système`
+
 ## Responsible AI-assisted engineering
 
 Plusieurs de mes prototypes (Munganga360 pour les explorations rapides, CERTDRC_kinshasa, secure-connect-final, secure-score-hub) ont été construits avec l'assistance d'outils de génération de code par IA à partir de mes spécifications fonctionnelles et de sécurité. Je relis systématiquement le code généré, comprends son fonctionnement, et documente clairement dans chaque dépôt la part réalisée à la main de la part assistée par IA.
