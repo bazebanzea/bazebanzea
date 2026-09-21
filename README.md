@@ -4,13 +4,13 @@
 
 Je conçois des solutions numériques sécurisées, de la modélisation des menaces à l'implémentation — avec une double compétence développement (front/back) et sécurité applicative.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henoc_Lipekene-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henoc-lipekene-b63471331) [![Munganga360](https://img.shields.io/badge/Project-Munganga360-16A085?style=for-the-badge&logo=googleplay&logoColor=white)](https://www.munganga360.com)
+[![Smart-X Congo](https://img.shields.io/badge/Company-Smart--X_Congo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartxcongo.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henoc_Lipekene-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henoc-lipekene-b63471331) [![Munganga360](https://img.shields.io/badge/Project-Munganga360-16A085?style=for-the-badge&logo=googleplay&logoColor=white)](https://www.munganga360.com)
 
 ---
 
 ## About me
 
-- Co-fondateur, **Smart-X Congo** — contribution développement (frontend/backend) et sécurité applicative.
+- Co-fondateur, **[Smart-X Congo](https://smartxcongo.com)** — contribution développement (frontend/backend) et sécurité applicative.
 - En Master 2 Cybersécurité, après une Licence en Sciences Informatiques et Mathématiques (Université de Kinshasa, UNIKIN).
 - Certifié **Google Cybersecurity Professional** et **LPI Linux Essentials**.
 - Compétences : Security by Design, DevSecOps, modélisation des menaces (STRIDE/DREAD), IAM, architecture Zero Trust, analyse de logs.
